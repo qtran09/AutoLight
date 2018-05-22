@@ -6,4 +6,4 @@ Using our ESP8266 microcontroller, an Adafruit TSL2561 Lux Sensor, and an LED ri
 
 ## Blynk
 Using a Blynk app, we are able to manually control the settings of the LED. A connection is established between the microcontroller and the app, where users are able to power on and off the LEDs, control light intensity manually, or even change the colors emitted. There are additionally a few presets users can choose from that affect color and brightness.
-![Blynk App](https://imgur.com/dA7fY5r)
+![Blynk App](https://i.imgur.com/dA7fY5r.jpg)
